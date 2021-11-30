@@ -30,6 +30,10 @@ var questions=[  {
   {
     question: "Name Luna Lovergood's father:  \nA. Xenophilius \nB. Lucius \nC. Slughorn \nD. Mundungus\n",
     answer: "A" 
+  },
+  {
+    question: "Out of the Marauders, who was Prongs?  \nA. James \nB. Remus \nC. Sirius \nD. Peter\n",
+    answer: "A" 
   }
 ]
 
